@@ -1,5 +1,5 @@
-# Pages
-**colonialFall:** a set of maps tracking the rise and fall of colonialism. [View](https://moctave.github.io/colonialFall/Website/)  
-**heraldry:** a beginner's guide to heraldry. [View](https://moctave.github.io/heraldry/)
+Give me a language, and I will learn to code in it.  
+Ask me to do something productive with that knowledge, and I will struggle.  
 
-[![mOctave's GitHub stats](https://github-readme-stats.vercel.app/api?username=mOctave)](https://github.com/mOctave/github-readme-stats)
+[![mOctave's GitHub stats](https://github-readme-stats.vercel.app/api?username=mOctave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mOctave&show_private=true&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
